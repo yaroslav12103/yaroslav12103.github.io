@@ -3,8 +3,8 @@ $('.carousel').slick({
   	slidesToScroll: 1,
   	autoplay: true,
  	autoplaySpeed: 2000,
- 	prevArrow: '<img src="фотки/leftA.png" width="30px" height="30px" class="arrow">',
-  	nextArrow: '<img src="фотки/rightA.png" width="30px" height="30px" class="arrow">',
+ 	prevArrow: '<img src="leftA.png" width="30px" height="30px" class="arrow">',
+  	nextArrow: '<img src="rightA.png" width="30px" height="30px" class="arrow">',
 });
 
 let cb = document.querySelector('.content-blocker')
